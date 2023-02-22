@@ -1,4 +1,5 @@
 # GryfJam
-2022
 
-Czas: 30h
+Year: 2022</br>
+Time: 30h</br>
+Theme: Timeless Journey
